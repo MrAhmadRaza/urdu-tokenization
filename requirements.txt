@@ -1,0 +1,7 @@
+### ML / DL / NLP Libs
+tensorflow>=1.5
+numpy
+
+
+### Packages
+tqdm
